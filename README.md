@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Yukooo11
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me you can't
+i know jack shit about coding yet here we are
 
 <!---
 Yukooo11/Yukooo11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
